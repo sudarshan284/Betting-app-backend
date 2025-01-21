@@ -1,1 +1,1 @@
-# ai-finance-advisor
+# Betting App Backend written using Golang.
